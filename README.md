@@ -1,11 +1,13 @@
-# Hi there 👋 I’m Himashi Jayaweera  
+# Hi there 👋 I’m Himashi Jayaweera
 
-I’m a passionate developer from Sri Lanka 🇱🇰 — I love building things with code and learning something new every day.<br>  
-🔭 Currently exploring Java, JavaScript and web-development.<br>   
-🌱 Always open to new ideas, open-source contributions & creative projects.<br>  
-⚡ Fun fact: I enjoy turning ideas into simple, clean, working apps.<br>   
+🚀 Code tinkerer • ☕ Coffee-powered learner • 🎨 Occasional design enjoyer<br>  
 
-Let’s build something awesome ✨<br> 
+I’m a developer from 🇱🇰 who loves building cool things, breaking them, and then fixing them again (with slightly fewer bugs each time 😄).<br>   
+💻 Currently crafting projects with Java, JavaScript & anything that sparks curiosity.<br>   
+🌱 On a mission to level up one commit at a time.<br>   
+✨ Big fan of clean UI, simple logic, and creative chaos.<br>   
+
+Let’s connect, collaborate, and create awesome stuff together! 🔥<br> 
 
 
 ## 🌐 Socials:
