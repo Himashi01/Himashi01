@@ -3,7 +3,7 @@
 🚀 Code tinkerer • ☕ Coffee-powered learner • 🎨 Occasional design enjoyer<br>  
 
 I’m a developer from Sri Lanka who loves building cool things, breaking them, and then fixing them again (with slightly fewer bugs each time 😄).<br>   
-💻 Currently crafting projects with Java, JavaScript & anything that sparks curiosity.<br>   
+💻 Currently crafting projects with NextJS, TailwindCSS and PostGreSQL & anything that sparks curiosity.<br>   
 🌱 On a mission to level up one commit at a time.<br>   
 ✨ Big fan of clean UI, simple logic, and creative chaos.<br>   
 
